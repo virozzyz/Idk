@@ -1,0 +1,624 @@
+╔══════════════════════════════════════════════════════════════╗
+║          SLIME REMOTES - Log de chamadas                     ║
+╚══════════════════════════════════════════════════════════════╝
+Data: 2026-10-07 20:57:13
+Total de remotes descobertos: 56
+Total de chamadas capturadas: 0
+
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: BindableEvent  →  CoreGui.RobloxGui.SendNotificationInfo
+──────────────────────────────────────────────────────────────────────
+  Name: SendNotificationInfo
+  ClassName: BindableEvent
+  Parent: CoreGui.RobloxGui
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  ReplicatedStorage.Events.ActionEvent
+──────────────────────────────────────────────────────────────────────
+  Name: ActionEvent
+  ClassName: RemoteEvent
+  Parent: ReplicatedStorage.Events
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteFunction  →  ReplicatedStorage.Events.ActionFunction
+──────────────────────────────────────────────────────────────────────
+  Name: ActionFunction
+  ClassName: RemoteFunction
+  Parent: ReplicatedStorage.Events
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteFunction  →  ReplicatedStorage.Events.ActionFunctionServer
+──────────────────────────────────────────────────────────────────────
+  Name: ActionFunctionServer
+  ClassName: RemoteFunction
+  Parent: ReplicatedStorage.Events
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: BindableEvent  →  ReplicatedStorage.Events.ActionsHandler
+──────────────────────────────────────────────────────────────────────
+  Name: ActionsHandler
+  ClassName: BindableEvent
+  Parent: ReplicatedStorage.Events
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  ReplicatedStorage.Events.Buy
+──────────────────────────────────────────────────────────────────────
+  Name: Buy
+  ClassName: RemoteEvent
+  Parent: ReplicatedStorage.Events
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  ReplicatedStorage.Events.Codes.CodesEvent
+──────────────────────────────────────────────────────────────────────
+  Name: CodesEvent
+  ClassName: RemoteEvent
+  Parent: ReplicatedStorage.Events.Codes
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  ReplicatedStorage.Events.GroupEvent
+──────────────────────────────────────────────────────────────────────
+  Name: GroupEvent
+  ClassName: RemoteEvent
+  Parent: ReplicatedStorage.Events
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  ReplicatedStorage.Events.LevelUp
+──────────────────────────────────────────────────────────────────────
+  Name: LevelUp
+  ClassName: RemoteEvent
+  Parent: ReplicatedStorage.Events
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  ReplicatedStorage.Events.Mobs.RemoteEvent
+──────────────────────────────────────────────────────────────────────
+  Name: RemoteEvent
+  ClassName: RemoteEvent
+  Parent: ReplicatedStorage.Events.Mobs
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteFunction  →  ReplicatedStorage.Events.Mobs.RemoteFunction
+──────────────────────────────────────────────────────────────────────
+  Name: RemoteFunction
+  ClassName: RemoteFunction
+  Parent: ReplicatedStorage.Events.Mobs
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  ReplicatedStorage.Events.Sound.Music
+──────────────────────────────────────────────────────────────────────
+  Name: Music
+  ClassName: RemoteEvent
+  Parent: ReplicatedStorage.Events.Sound
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteFunction  →  ReplicatedStorage.Events.Sound.RemoteFunction
+──────────────────────────────────────────────────────────────────────
+  Name: RemoteFunction
+  ClassName: RemoteFunction
+  Parent: ReplicatedStorage.Events.Sound
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  ReplicatedStorage.Events.StateEvent
+──────────────────────────────────────────────────────────────────────
+  Name: StateEvent
+  ClassName: RemoteEvent
+  Parent: ReplicatedStorage.Events
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  ReplicatedStorage.Events.Window.Sinal
+──────────────────────────────────────────────────────────────────────
+  Name: Sinal
+  ClassName: RemoteEvent
+  Parent: ReplicatedStorage.Events.Window
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  ReplicatedStorage.Log
+──────────────────────────────────────────────────────────────────────
+  Name: Log
+  ClassName: RemoteEvent
+  Parent: ReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteFunction  →  ReplicatedStorage.Remotes.Admin
+──────────────────────────────────────────────────────────────────────
+  Name: Admin
+  ClassName: RemoteFunction
+  Parent: ReplicatedStorage.Remotes
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  ReplicatedStorage.Remotes.AdminEvent
+──────────────────────────────────────────────────────────────────────
+  Name: AdminEvent
+  ClassName: RemoteEvent
+  Parent: ReplicatedStorage.Remotes
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  ReplicatedStorage.Remotes.Update
+──────────────────────────────────────────────────────────────────────
+  Name: Update
+  ClassName: RemoteEvent
+  Parent: ReplicatedStorage.Remotes
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.BuildExperiencePlaytestTeleport
+──────────────────────────────────────────────────────────────────────
+  Name: BuildExperiencePlaytestTeleport
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.CanChatWith
+──────────────────────────────────────────────────────────────────────
+  Name: CanChatWith
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.CreateOrJoinParty
+──────────────────────────────────────────────────────────────────────
+  Name: CreateOrJoinParty
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.ExpChatFeatureValueChanged
+──────────────────────────────────────────────────────────────────────
+  Name: ExpChatFeatureValueChanged
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteFunction  →  RobloxReplicatedStorage.ExperienceChat.WhisperChat
+──────────────────────────────────────────────────────────────────────
+  Name: WhisperChat
+  ClassName: RemoteFunction
+  Parent: RobloxReplicatedStorage.ExperienceChat
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteFunction  →  RobloxReplicatedStorage.GetServerChannel
+──────────────────────────────────────────────────────────────────────
+  Name: GetServerChannel
+  ClassName: RemoteFunction
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteFunction  →  RobloxReplicatedStorage.GetServerType
+──────────────────────────────────────────────────────────────────────
+  Name: GetServerType
+  ClassName: RemoteFunction
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteFunction  →  RobloxReplicatedStorage.GetServerVersion
+──────────────────────────────────────────────────────────────────────
+  Name: GetServerVersion
+  ClassName: RemoteFunction
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.IntegrityCheckProcessorKey2_AutomaticAssetCaptureSender_LocalizationService
+──────────────────────────────────────────────────────────────────────
+  Name: IntegrityCheckProcessorKey2_AutomaticAssetCaptureSender_LocalizationService
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.IntegrityCheckProcessorKey2_DynamicTranslationSender_LocalizationService
+──────────────────────────────────────────────────────────────────────
+  Name: IntegrityCheckProcessorKey2_DynamicTranslationSender_LocalizationService
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.IntegrityCheckProcessorKey2_LocalizationTableAnalyticsSender_LocalizationService
+──────────────────────────────────────────────────────────────────────
+  Name: IntegrityCheckProcessorKey2_LocalizationTableAnalyticsSender_LocalizationService
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.IntegrityCheckProcessorKey2_TextSafetyAnalyticsSender_LocalizationService
+──────────────────────────────────────────────────────────────────────
+  Name: IntegrityCheckProcessorKey2_TextSafetyAnalyticsSender_LocalizationService
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.ModerateChatSettingUpdated
+──────────────────────────────────────────────────────────────────────
+  Name: ModerateChatSettingUpdated
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.NewPlayerCanManageDetails
+──────────────────────────────────────────────────────────────────────
+  Name: NewPlayerCanManageDetails
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.NewPlayerGroupDetails
+──────────────────────────────────────────────────────────────────────
+  Name: NewPlayerGroupDetails
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.PlatformLeaderboardPush
+──────────────────────────────────────────────────────────────────────
+  Name: PlatformLeaderboardPush
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.PlatformLeaderboardTabClosed
+──────────────────────────────────────────────────────────────────────
+  Name: PlatformLeaderboardTabClosed
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.PlatformLeaderboardTabOpened
+──────────────────────────────────────────────────────────────────────
+  Name: PlatformLeaderboardTabOpened
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.ReferredPlayerJoin
+──────────────────────────────────────────────────────────────────────
+  Name: ReferredPlayerJoin
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.RequestDeviceCameraOrientationCapability
+──────────────────────────────────────────────────────────────────────
+  Name: RequestDeviceCameraOrientationCapability
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.RequestPlayerProfileSettings
+──────────────────────────────────────────────────────────────────────
+  Name: RequestPlayerProfileSettings
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.SendPlayerBlockList
+──────────────────────────────────────────────────────────────────────
+  Name: SendPlayerBlockList
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.SendPlayerProfileSettings
+──────────────────────────────────────────────────────────────────────
+  Name: SendPlayerProfileSettings
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.ServerSideBulkPurchaseEvent
+──────────────────────────────────────────────────────────────────────
+  Name: ServerSideBulkPurchaseEvent
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.SetDialogInUse
+──────────────────────────────────────────────────────────────────────
+  Name: SetDialogInUse
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.SetPlayerBlockList
+──────────────────────────────────────────────────────────────────────
+  Name: SetPlayerBlockList
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.SetUserActive
+──────────────────────────────────────────────────────────────────────
+  Name: SetUserActive
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.ShowFriendJoinedPlayerToast
+──────────────────────────────────────────────────────────────────────
+  Name: ShowFriendJoinedPlayerToast
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.ShowPlayerJoinedFriendsToast
+──────────────────────────────────────────────────────────────────────
+  Name: ShowPlayerJoinedFriendsToast
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.UpdateLocalPlayerBlockList
+──────────────────────────────────────────────────────────────────────
+  Name: UpdateLocalPlayerBlockList
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.UpdatePlayerBlockList
+──────────────────────────────────────────────────────────────────────
+  Name: UpdatePlayerBlockList
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: RemoteEvent  →  RobloxReplicatedStorage.UpdatePlayerProfileSettings
+──────────────────────────────────────────────────────────────────────
+  Name: UpdatePlayerProfileSettings
+  ClassName: RemoteEvent
+  Parent: RobloxReplicatedStorage
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: BindableFunction  →  Workspace.Jaozindupobi.Animate.PlayEmote
+──────────────────────────────────────────────────────────────────────
+  Name: PlayEmote
+  ClassName: BindableFunction
+  Parent: Workspace.Jaozindupobi.Animate
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: BindableFunction  →  Workspace.MAPS_Structures.NPC_Blob.Blob.Animate.PlayEmote
+──────────────────────────────────────────────────────────────────────
+  Name: PlayEmote
+  ClassName: BindableFunction
+  Parent: Workspace.MAPS_Structures.NPC_Blob.Blob.Animate
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: BindableFunction  →  Workspace.dummyshrek666.Animate.PlayEmote
+──────────────────────────────────────────────────────────────────────
+  Name: PlayEmote
+  ClassName: BindableFunction
+  Parent: Workspace.dummyshrek666.Animate
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: BindableFunction  →  Workspace.fafax1_1.Animate.PlayEmote
+──────────────────────────────────────────────────────────────────────
+  Name: PlayEmote
+  ClassName: BindableFunction
+  Parent: Workspace.fafax1_1.Animate
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
+
+──────────────────────────────────────────────────────────────────────
+REMOTE: BindableFunction  →  Workspace.simNAOsoueu.Animate.PlayEmote
+──────────────────────────────────────────────────────────────────────
+  Name: PlayEmote
+  ClassName: BindableFunction
+  Parent: Workspace.simNAOsoueu.Animate
+  Attributes:
+    (nenhum)
+
+  >> Nenhuma chamada capturada ainda.
